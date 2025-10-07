@@ -1,4 +1,5 @@
 # AI-Based Image Analysis Tool for Smile & Age Prediction
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a1246e31-0caa-42bc-8c89-3181a8e3d542" />
 
 ## Problem Statement
 * The "Smart Selfie Capture with Smile Detection and Age Prediction" project aims to develop an AI-powered system that automatically captures selfies when a smile is detected and predicts the user&#39;s age in real-time. The system will leverage computer vision and deep learning techniques to recognize smiles and estimate age using pre-trained models and datasets. The project involves data collection, model training, and UI integration to create a user-friendly application.
